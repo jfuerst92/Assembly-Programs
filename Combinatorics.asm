@@ -1,4 +1,4 @@
-TITLE Project 6B Combinatorics     (Combinatorics.asm)
+TITLE Combinations     (Combinatorics.asm)
 
 ; Author: Joseph Fuerst
 ; Date: 5/21/2016

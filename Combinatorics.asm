@@ -1,7 +1,7 @@
 TITLE Project 6B Combinatorics     (Combinatorics.asm)
 
 ; Author: Joseph Fuerst
-; Course / Project ID   CS271 Project6B          Date: 5/21/2016
+; Date: 5/21/2016
 ; Description: This program will ask the user to enter an amount of numbers they want to be generated. It then generated them in the range of 100 to 999. it then sorts 
 ; them from larges to smallest and prints them again.
 
